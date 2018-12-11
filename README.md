@@ -7,3 +7,15 @@
 * ```Express```
 * ```node ```
 * ```GraphQL```
+
+
+## 项目启动
+
+``` bash
+cd client
+yarn install
+yarn start
+cd server
+yarn install
+node app
+```
